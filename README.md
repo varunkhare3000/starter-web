@@ -7,3 +7,5 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## Addding line 1
+
+##Adding line 2
